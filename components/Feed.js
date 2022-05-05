@@ -1,3 +1,4 @@
+import Posts from "./Posts";
 import Stories from "./Stories";
 
 export default function Feed() {
@@ -8,12 +9,13 @@ export default function Feed() {
         <Stories />
 
         {/* Posts */}
+        <Posts />
       </section>
 
       <section>
         {/* Mini Profile */}
 
-        {/* Suggestions */}
+        {/* Suggections */}
       </section>
     </main>
   );
