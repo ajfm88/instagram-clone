@@ -1,4 +1,5 @@
 import { useSession, signOut } from "next-auth/react";
+
 export default function MiniProfile() {
   const { data: session } = useSession();
   return (

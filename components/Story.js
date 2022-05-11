@@ -1,4 +1,5 @@
 import { PlusIcon } from "@heroicons/react/solid";
+
 export default function Story({ img, username, isUser }) {
   return (
     <div className="relative group cursor-pointer">
