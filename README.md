@@ -2,7 +2,7 @@
 
 ## Live Demo:
 
-- [Instagram Clone](https://instagram-clone-ajfm88.vercel.app/)
+- [Instagram Clone](https://instagram-clone.vercel.app/)
 
 ## Features:
 
